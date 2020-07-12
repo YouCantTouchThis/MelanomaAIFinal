@@ -1,0 +1,224 @@
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  
+  input:focus, select:focus, textarea:focus, button:focus {
+    outline: none;
+  }
+  
+  .drop {
+    width: 90%;
+    height: 220px;
+    border: 3px dashed #DADFE3;
+    border-radius: 15px;
+    overflow: hidden;
+    text-align: center;
+    background: transparent;
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+  
+  .drop .cont {
+    width: 500px;
+    height: 170px;
+    color: #8E99A5;
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+  
+  .drop .cont i {
+    font-size: 40px;
+    color: #787e85;
+    position: relative;
+  }
+  
+  .drop .cont .tit {
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 900;
+  }
+  
+  .drop .cont .desc {
+    color: #787e85;
+    font-size: 18px;
+  }
+  
+  .drop .cont .browse {
+    margin: 10px 25%;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 4px;
+    background: #00c993;
+  }
+  
+  .drop input {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    background: red;
+    opacity: 0;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+  
+  #list {
+    width: 100%;
+    text-align: left;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  
+  .dashed_upload {
+    height: 200px;
+  }
+  
+  .wrapper {
+    position: relative;
+    color: rgb(0,0,255);
+    left: 2%;
+    top: 39px;
+  }
+  
+  .col-lg-7.my-auto {
+    position: relative;
+    left: 201px;
+  }
+  
+  .btn.btn-outline-warning.btn-xl.js-scroll-trigger {
+    position: relative;
+    left: 35%;
+  }
+  
+  .col-lg-7.my-auto {
+    left: -24%;
+  }
+  
+  div {
+  }
+  
+  .LogoInstruction {
+    position: relative;
+    left: 5;
+  }
+  
+  .col {
+  }
+  
+  .LogoInstruction {
+    position: relative;
+    left: 101%;
+    top: 125px;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+  }
+  
+  .LogoInstruction {
+  }
+  
+  .LogoInstruction1 {
+    left: 14px;
+  }
+  
+  .LogoInstruction1 {
+    position: relative;
+    width: 543px;
+    left: -90%;
+    top: -17px;
+  }
+  
+  header.masthead {
+  }
+  
+  .browse {
+    background-color: black;
+    position: relative;
+    /*left: 6px;*/
+  }
+  
+  .tit {
+    color: rgb(255,255,255);
+  }
+  
+  .desc {
+    color: white;
+  }
+  
+  .browse {
+    position: relative;
+    background-color: blue;
+  }
+  
+  .form-control.email {
+    position: relative;
+    top: 109px;
+    left: 2%;
+  }
+  
+  .form-control.email {
+    placeholder: "Enter your email to get results";
+  }
+  
+  .form-control.email {
+    type: email;
+  }
+  
+  .Melanoma {
+    position: relative;
+    left: -50%;
+    font-weight: 500;
+    top: -42px;
+    font-size: 72px;
+  }
+  
+  .wrapper {
+  }
+  
+  .btn.btn-outline-warning.btn-xl.js-scroll-trigger {
+    position: relative;
+    top: 131px;
+    left: 39%;
+  }
+  
+  .btn.btn-outline-warning.btn-xl.js-scroll-trigger {
+  }
+  
+  .btn:not(:disabled):not(.disabled) {
+  }
+  
+  .btn:not(:disabled):not(.disabled) {
+    position: relative;
+    left: 43%;
+    top: 132px;
+  }
+  
+  .btn:not(:disabled):not(.disabled) {
+    background-color: rgb(255,255,255);
+    color: black;
+  }
+  
+  

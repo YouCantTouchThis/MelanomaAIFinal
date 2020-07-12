@@ -1,0 +1,38 @@
+.bac {
+    position: relative;
+    width: 100%;
+    size: cover;
+    top: -64px;
+    /*background-image: url('https://cdn.pixabay.com/photo/2020/04/18/18/43/background-5060537_960_720.png');*/
+    /*background-size: cover;*/
+    /*object-fit: cover;*/
+  }
+  
+  .h1, h1 {
+    position: relative;
+    top: 91px;
+    z-index: 500;
+  }
+  
+  .h1, h1 {
+    position: relative;
+    height: 0px;
+    top: 100px;
+    left: 22%;
+    color: white;
+    font-size: 44px;
+  }
+  
+  .btn:not(:disabled):not(.disabled) {
+    position: relative;
+    top: 336px;
+    left: 43%;
+    width: 15%;
+    z-index: 500;
+    height: 56px;
+    font-size: 21px;
+  }
+  
+  
+  
+  
