@@ -18,7 +18,7 @@ backports.shutil-get-terminal-size==1.0.0
 beautifulsoup4==4.9.1
 bitarray==1.2.2
 bkcharts==0.2
-bleach==3.1.5
+bleach==3.3.0
 blurhash==1.1.4
 bokeh @ file:///C:/ci/bokeh_1593179283802/work
 boost==0.1
